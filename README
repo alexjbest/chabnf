@@ -1,16 +1,5 @@
+# Code is due to Siksek:
 
-# Code for Generalized Fermat Equations  x^13 + y^13 = z^p (p = 5,7)
-
-with Sander Dahmen and Nuno Freitas
-
-the main claims are verified in the notebooks `case-5-I.ipynb` etc, using https://github.com/edgarcosta/magma_kernel
-
-
-
-
-
-
-Incuded are files from Siksek, lightly modified (presumably due to changes to Magma since the files were written) the original readme is attached below
 
 This directory contains programs needed for the computational part
 of the paper
